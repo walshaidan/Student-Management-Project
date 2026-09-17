@@ -35,6 +35,5 @@ Running the Project:
 3. Make sure Java is installed and configured.
 4. Run the main class to start the program.
 
-About
 I created this project to improve my understanding of Java, CRUD operations, 
 file/data persistence, validation and structuring a larger program across multiple classes.
