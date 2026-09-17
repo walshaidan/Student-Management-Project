@@ -16,7 +16,7 @@ public class StudentConsoleView {
         System.out.println(" ".repeat(25) + "Main Menu");
         printStars();
         System.out.println("- Press (Q) To Quit");
-        System.out.println("- Press (X) The Audit Log");
+//        System.out.println("- Press (X) The Audit Log");
         System.out.println("- Press (Z) Search By StudentID");
         System.out.println("- Press (V) To View The Student Database");
         System.out.println("- Press (S) To Get Statistics");
